@@ -1,0 +1,12 @@
+{
+    "name": "node-lib"
+  , "description": "Barebones Node.js module."
+  , "scripts": {
+      "before": [
+        "hi.sh"
+      ]
+    , "after": [
+        "bye.js"
+      ]
+  }
+}
