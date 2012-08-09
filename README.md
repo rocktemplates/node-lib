@@ -28,6 +28,6 @@ License
 
 (MIT License)
 
-Copyright {{date-year}}, {{author}} <{{email}}>
+Copyright {{date-year}}, {{author}}  <{{email}}>
 
 
