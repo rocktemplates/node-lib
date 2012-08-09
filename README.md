@@ -31,5 +31,3 @@ License
 Copyright {{date-year}}, {{author}} <{{email}}>
 
 
-
-[1]: http://en.wikipedia.org/wiki/Expect
