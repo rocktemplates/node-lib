@@ -1,3 +1,3 @@
-0.0.1 / 2012-08-03
+0.0.1 / {{date-year}}-{{date-month}}-{{date-day}}
 ------------------
 * Initial release.
