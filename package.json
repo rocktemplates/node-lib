@@ -16,7 +16,7 @@
         "url" : ""
     }],
     "dependencies" : {},
-     "devDepdencies":{},
+     "devDependencies":{},
     "main" : "./lib/{{package-name}}.js",
     "scripts": {
         "test": "mocha test"
