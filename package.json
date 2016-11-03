@@ -1,21 +1,17 @@
 {
-  "name" : "{{package-name}}", 
-  "version" : "0.0.1",
-  "description" :"",
-  "homepage" : "",
-  "repository" : {
-    "type" : "git", 
-    "url" : ""
+  "name": "{{package-name}}",
+  "version": "0.0.1",
+  "author": "{{author}} <{{email}}>",
+  "dependencies": {},
+  "devDependencies": {},
+  "homepage": "",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./lib/{{package-name}}.js",
+  "repository": {
+    "type": "git",
+    "url": ""
   },
-  "keywords" : [],
-  "author" : "{{author}} <{{email}}>",
-  "licenses" : [ {
-    "type" : "MIT",
-    "url" : ""
-  }],
-  "dependencies" : {},
-  "devDependencies":{},
-  "main" : "./lib/{{package-name}}.js",
   "scripts": {
     "test": "mocha test"
   }
